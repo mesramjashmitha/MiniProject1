@@ -1,0 +1,14 @@
+*.zip
+*.h5
+*.keras
+*.npy
+
+dataset/
+DatasetAcne/
+AcneDataset/
+balanced_dataset/
+Clean_Data_5/
+train/
+Resultsss/
+
+__pycache__/

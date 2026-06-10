@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Symptoms</title>
+
+<style>
+body{
+    font-family:Arial;
+    background:#111;
+    color:white;
+}
+
+.card{
+    width:400px;
+    margin:20px auto;
+    padding:15px;
+    background:#222;
+    border-radius:10px;
+    box-shadow:0 0 15px cyan;
+}
+
+button{
+    width:100%;
+    padding:10px;
+    background:cyan;
+    border:none;
+    border-radius:10px;
+}
+</style>
+</head>
+
+<body>
+
+<h2 style="text-align:center">🧾 Symptoms Analysis</h2>
+
+<div id="qbox"></div>
+
+<button onclick="submit()">Submit</button>
+
+<script>
+
+let questions = [];
+
+fetch("http://127.0.0.1:5000/questions")
+.then(r=>r.json())
+.then(data=>{
+    questions = data;
+
+    let html="";
+
+    data.forEach((q,i)=>{
+        html+=`
+        <div class="card">
+            <p>${i+1}. ${q.q}</p>
+            ${q.options.map((o,j)=>`
+                <label>
+                <input type="radio" name="q${i}" value="${j}">
+                ${o}
+                </label><br>
+            `).join("")}
+        </div>`;
+    });
+
+    document.getElementById("qbox").innerHTML = html;
+});
+
+function submit(){
+
+    let ans=[];
+
+    questions.forEach((q,i)=>{
+        let sel=document.querySelector(`input[name="q${i}"]:checked`);
+        ans.push(sel?sel.value:0);
+    });
+
+    fetch("http://127.0.0.1:5000/analyze",{
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({answers:ans})
+    })
+    .then(r=>r.json())
+    .then(d=>{
+        alert("Result: "+d.result.level);
+    });
+
+}
+</script>
+
+</body>
+</html>

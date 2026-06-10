@@ -1,0 +1,4256 @@
+[
+    {
+        "name": "zx",
+        "age": "z",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "medicine": "Topical Antibiotic"
+    },
+    {
+        "name": "zx",
+        "age": "z",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "medicine": "Topical Antibiotic"
+    },
+    {
+        "name": "jash",
+        "age": "23",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "medicine": "Use Topical Antibiotic Cream"
+    },
+    {
+        "name": "jash",
+        "age": "22",
+        "disease": "papules",
+        "confidence": 62.97,
+        "medicine": "Use Niacinamide Serum",
+        "advice": "Do not touch face, reduce inflammation.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/papules/1.jpg"
+        ]
+    },
+    {
+        "name": "ravi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "medicine": "Use Topical Antibiotic Cream",
+        "advice": "Avoid popping pimples, keep skin clean.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "kanna",
+        "age": "23",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "rishitha",
+        "age": "21",
+        "disease": "papules",
+        "confidence": 62.97,
+        "reason": "Formed due to inflammation of clogged pores leading to small red bumps.",
+        "medicine": [
+            "Niacinamide Serum",
+            "Azelaic Acid Cream",
+            "Clindamycin (Topical Antibiotic)",
+            "Anti-inflammatory Gel"
+        ],
+        "advice": "Avoid touching face and reduce inflammation.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/papules/1.jpg"
+        ]
+    },
+    {
+        "name": "ddf",
+        "age": "dfds",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "jashmitha",
+        "age": "32",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "priya",
+        "age": "23",
+        "disease": "papules",
+        "confidence": 62.97,
+        "reason": "Formed due to inflammation of clogged pores leading to small red bumps.",
+        "medicine": [
+            "Niacinamide Serum",
+            "Azelaic Acid Cream",
+            "Clindamycin (Topical Antibiotic)",
+            "Anti-inflammatory Gel"
+        ],
+        "advice": "Avoid touching face and reduce inflammation.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/papules/1.jpg"
+        ]
+    },
+    {
+        "name": "jash",
+        "age": "23",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "jash",
+        "age": "23",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "jash",
+        "age": "23",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "jashmitha",
+        "age": "12",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "chandrika",
+        "age": "20",
+        "disease": "papules",
+        "confidence": 62.97,
+        "reason": "Formed due to inflammation of clogged pores leading to small red bumps.",
+        "medicine": [
+            "Niacinamide Serum",
+            "Azelaic Acid Cream",
+            "Clindamycin (Topical Antibiotic)",
+            "Anti-inflammatory Gel"
+        ],
+        "advice": "Avoid touching face and reduce inflammation.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/papules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "sravanthi",
+        "age": "20",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "rakshitha",
+        "age": "18",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "meghana",
+        "age": "19",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "meghana",
+        "age": "19",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "xyz",
+        "age": "22",
+        "disease": "blackheads",
+        "confidence": 88.75,
+        "reason": "Caused by open pores clogged with oil and dead skin cells which oxidize and turn black.",
+        "medicine": [
+            "Salicylic Acid Face Wash",
+            "Adapalene (Retinoid Cream)",
+            "Oil-free Cleanser",
+            "Charcoal Face Wash"
+        ],
+        "advice": "Wash face twice daily and avoid oily products.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/blackheads/1.jpg"
+        ]
+    },
+    {
+        "name": "xyzm",
+        "age": "22",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "xyzm",
+        "age": "22",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "xyzs",
+        "age": "23",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "reason": "Occurs when bacteria infect clogged pores leading to pus formation.",
+        "medicine": [
+            "Benzoyl Peroxide + Antibiotic",
+            "Topical Antibiotic Cream",
+            "Sulfur Ointment",
+            "Oral Antibiotics (Doctor prescribed)"
+        ],
+        "advice": "Do not pop pimples, maintain hygiene.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/pustules/1.jpg"
+        ]
+    },
+    {
+        "name": "saxasA",
+        "age": "22",
+        "disease": "papules",
+        "confidence": 62.97,
+        "reason": "Formed due to inflammation of clogged pores leading to small red bumps.",
+        "medicine": [
+            "Niacinamide Serum",
+            "Azelaic Acid Cream",
+            "Clindamycin (Topical Antibiotic)",
+            "Anti-inflammatory Gel"
+        ],
+        "advice": "Avoid touching face and reduce inflammation.",
+        "uploaded_image": "/static/upload.jpg",
+        "sample_images": [
+            "/static/images/papules/1.jpg"
+        ]
+    },
+    {
+        "name": "IDIOT",
+        "age": "21",
+        "disease": "papules",
+        "confidence": 62.97,
+        "level": "High",
+        "reason": "Inflamed acne due to bacteria causing red bumps",
+        "advice": "Avoid touching face, reduce inflammation, maintain hygiene",
+        "medicine": [
+            "Topical Antibiotics",
+            "Strong Anti-inflammatory Cream",
+            "Doctor Prescribed Gel",
+            "Skin Therapy"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "FLDSKF",
+        "age": "33",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "Medium",
+        "reason": "Pus-filled acne caused by bacterial infection",
+        "advice": "Do not pop pimples, keep area clean, use antibacterial care",
+        "medicine": [
+            "Combination Cream",
+            "Sulfur Ointment",
+            "Topical Antibiotics",
+            "Acne Gel"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "FLDSKF",
+        "age": "33",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "Medium",
+        "reason": "Pus-filled acne caused by bacterial infection",
+        "advice": "Do not pop pimples, keep area clean, use antibacterial care",
+        "medicine": [
+            "Combination Cream",
+            "Sulfur Ointment",
+            "Topical Antibiotics",
+            "Acne Gel"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "FLDSKF",
+        "age": "33",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "Medium",
+        "reason": "Pus-filled acne caused by bacterial infection",
+        "advice": "Do not pop pimples, keep area clean, use antibacterial care",
+        "medicine": [
+            "Combination Cream",
+            "Sulfur Ointment",
+            "Topical Antibiotics",
+            "Acne Gel"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "XVCD",
+        "age": "34",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "Medium",
+        "reason": "Pus-filled acne caused by bacterial infection",
+        "advice": "Do not pop pimples, keep area clean, use antibacterial care",
+        "medicine": [
+            "Combination Cream",
+            "Sulfur Ointment",
+            "Topical Antibiotics",
+            "Acne Gel"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "vvxvsd",
+        "age": "21",
+        "disease": "papules",
+        "confidence": 47.47,
+        "level": "Medium",
+        "reason": "Inflamed acne due to bacteria causing red bumps",
+        "advice": "Avoid touching face, reduce inflammation, maintain hygiene",
+        "medicine": [
+            "Azelaic Acid",
+            "Clindamycin Cream",
+            "Acne Gel",
+            "Skin Repair Cream"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "sdfsd",
+        "age": "11",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "Medium",
+        "reason": "Inflamed acne due to bacteria causing red bumps",
+        "advice": "Avoid touching face, reduce inflammation, maintain hygiene",
+        "medicine": [
+            "Azelaic Acid",
+            "Clindamycin Cream",
+            "Acne Gel",
+            "Skin Repair Cream"
+        ],
+        "uploaded_image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "87",
+        "gender": "jkbkj",
+        "date": "2026-03-31",
+        "image": "/static/upload.jpg",
+        "results": [
+            {
+                "type": "blackheads",
+                "confidence": 3.36,
+                "level": "Very Low",
+                "reason": "Open pores clogged with excess oil and dead skin that oxidize and turn black.",
+                "medicine": [
+                    "Salicylic Acid Face Wash (removes oil)",
+                    "Adapalene Gel (clears pores)",
+                    "Charcoal Mask (deep cleansing)",
+                    "Niacinamide Serum (oil control)",
+                    "Oil-Free Moisturizer"
+                ],
+                "advice": "Wash face twice daily and avoid oily products."
+            },
+            {
+                "type": "whiteheads",
+                "confidence": 0.0,
+                "level": "Very Low",
+                "reason": "Closed pores filled with trapped oil and bacteria under the skin.",
+                "medicine": [
+                    "Benzoyl Peroxide Cream",
+                    "Salicylic Acid Gel",
+                    "Retinoid Cream",
+                    "Niacinamide Serum",
+                    "Light Moisturizer"
+                ],
+                "advice": "Keep skin clean and use light products."
+            },
+            {
+                "type": "papules",
+                "confidence": 62.97,
+                "level": "High",
+                "reason": "Inflamed acne lesions caused by bacterial growth and irritation.",
+                "medicine": [
+                    "Niacinamide Serum",
+                    "Azelaic Acid Cream",
+                    "Clindamycin Gel",
+                    "Aloe Vera Gel",
+                    "Oil-Free Moisturizer"
+                ],
+                "advice": "Avoid touching face and reduce inflammation."
+            },
+            {
+                "type": "pustules",
+                "confidence": 33.66,
+                "level": "Low",
+                "reason": "Infected pimples filled with pus due to bacterial infection.",
+                "medicine": [
+                    "Benzoyl Peroxide",
+                    "Topical Antibiotics",
+                    "Sulfur Cream",
+                    "Salicylic Acid Wash",
+                    "Oral Antibiotics (Doctor)"
+                ],
+                "advice": "Do not pop pimples."
+            },
+            {
+                "type": "cysts",
+                "confidence": 0.0,
+                "level": "Very Low",
+                "reason": "Severe deep acne caused by infection inside skin layers.",
+                "medicine": [
+                    "Consult Dermatologist",
+                    "Oral Isotretinoin",
+                    "Steroid Injection",
+                    "Strong Antibiotics",
+                    "Medical Acne Therapy"
+                ],
+                "advice": "Seek dermatologist immediately."
+            }
+        ]
+    },
+    {
+        "name": "undefined",
+        "age": "22",
+        "gender": "eedsa",
+        "date": "2026-03-31",
+        "image": "/static/upload.jpg",
+        "results": [
+            {
+                "type": "blackheads",
+                "confidence": 0.22,
+                "level": "Very Low",
+                "reason": "Open pores clogged with excess oil and dead skin that oxidize and turn black.",
+                "medicine": [
+                    "Salicylic Acid Face Wash (removes oil)",
+                    "Adapalene Gel (clears pores)",
+                    "Charcoal Mask (deep cleansing)",
+                    "Niacinamide Serum (oil control)",
+                    "Oil-Free Moisturizer"
+                ],
+                "advice": "Wash face twice daily and avoid oily products."
+            },
+            {
+                "type": "whiteheads",
+                "confidence": 0.2,
+                "level": "Very Low",
+                "reason": "Closed pores filled with trapped oil and bacteria under the skin.",
+                "medicine": [
+                    "Benzoyl Peroxide Cream",
+                    "Salicylic Acid Gel",
+                    "Retinoid Cream",
+                    "Niacinamide Serum",
+                    "Light Moisturizer"
+                ],
+                "advice": "Keep skin clean and use light products."
+            },
+            {
+                "type": "papules",
+                "confidence": 48.72,
+                "level": "Medium",
+                "reason": "Inflamed acne lesions caused by bacterial growth and irritation.",
+                "medicine": [
+                    "Niacinamide Serum",
+                    "Azelaic Acid Cream",
+                    "Clindamycin Gel",
+                    "Aloe Vera Gel",
+                    "Oil-Free Moisturizer"
+                ],
+                "advice": "Avoid touching face and reduce inflammation."
+            },
+            {
+                "type": "pustules",
+                "confidence": 49.9,
+                "level": "Medium",
+                "reason": "Infected pimples filled with pus due to bacterial infection.",
+                "medicine": [
+                    "Benzoyl Peroxide",
+                    "Topical Antibiotics",
+                    "Sulfur Cream",
+                    "Salicylic Acid Wash",
+                    "Oral Antibiotics (Doctor)"
+                ],
+                "advice": "Do not pop pimples."
+            },
+            {
+                "type": "cysts",
+                "confidence": 0.24,
+                "level": "Very Low",
+                "reason": "Severe deep acne caused by infection inside skin layers.",
+                "medicine": [
+                    "Consult Dermatologist",
+                    "Oral Isotretinoin",
+                    "Steroid Injection",
+                    "Strong Antibiotics",
+                    "Medical Acne Therapy"
+                ],
+                "advice": "Seek dermatologist immediately."
+            }
+        ]
+    },
+    {
+        "name": "undefined",
+        "age": "787",
+        "gender": "jhgj",
+        "date": "2026-03-31",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "Medium",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "787",
+        "gender": "jhgj",
+        "date": "2026-03-31",
+        "disease": "papules",
+        "confidence": 62.97,
+        "level": "High",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "Medium",
+        "reason": "Inflamed pores.",
+        "medicine": [
+            "Clindamycin",
+            "Niacinamide",
+            "Azelaic Acid",
+            "Cream",
+            "Moisturizer"
+        ],
+        "advice": "Avoid squeezing.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "uyryju",
+        "age": "33",
+        "disease": "papules",
+        "confidence": 47.47,
+        "medicine": "Use Niacinamide Serum"
+    },
+    {
+        "name": "hjhgj",
+        "age": "22",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "medicine": "Use Topical Antibiotic Cream"
+    },
+    {
+        "name": "jashmitha",
+        "age": "21",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 37.98% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashmitha",
+        "age": "21",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashmitha",
+        "age": "21",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashmitha",
+        "age": "21",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "as",
+        "age": "11",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dsaf",
+        "age": "12",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dsaf",
+        "age": "12",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dsaf",
+        "age": "12",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dsaf",
+        "age": "12",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dsafdsa",
+        "age": "21",
+        "gender": "Female",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dsafdsa",
+        "age": "21",
+        "gender": "Female",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "hghf",
+        "age": "66",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "keerthi",
+        "age": "22",
+        "gender": "Female",
+        "disease": "papules",
+        "confidence": 47.11,
+        "level": "High",
+        "explanation": "The system detected papules with 47.11% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupa",
+        "age": "22",
+        "gender": "Female",
+        "disease": "papules",
+        "confidence": 38.9,
+        "level": "Medium",
+        "explanation": "The system detected papules with 38.9% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rupaa",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jhvh",
+        "age": "55",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jkk,",
+        "age": "22",
+        "gender": "Female",
+        "disease": "cysts",
+        "confidence": 66.22,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 66.22% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ksDcb",
+        "age": "23",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "mnnb",
+        "age": "55",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 47.03,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 47.03% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "sravanthi",
+        "age": "22",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 37.98% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "Vidya",
+        "age": "20",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 37.98% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "kalyani",
+        "age": "24",
+        "gender": "Female",
+        "disease": "cysts",
+        "confidence": 66.22,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 66.22% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashmitha",
+        "age": "22",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 37.98% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "Meghana",
+        "age": "18",
+        "gender": "Female",
+        "disease": "cysts",
+        "confidence": 66.22,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 66.22% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "sahithii",
+        "age": "19",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "vara",
+        "age": "23",
+        "gender": "Female",
+        "disease": "papules",
+        "confidence": 62.97,
+        "level": "Severe",
+        "explanation": "The system detected papules with 62.97% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "varaa",
+        "age": "22",
+        "gender": "Female",
+        "disease": "cysts",
+        "confidence": 66.22,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 66.22% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 62.97,
+        "level": "Severe",
+        "explanation": "The system detected papules with 62.97% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "nani",
+        "age": "19",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "fvdvdd",
+        "age": "21",
+        "gender": "Female",
+        "disease": "cysts",
+        "confidence": 66.22,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 66.22% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "fvdvdd",
+        "age": "21",
+        "gender": "Female",
+        "disease": "cysts",
+        "confidence": 66.22,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 66.22% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "bmbm",
+        "age": "09",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 100.0% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "mm",
+        "age": "09",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 74.55,
+        "level": "Severe",
+        "explanation": "The system detected whiteheads with 74.55% confidence.",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jk",
+        "age": "8",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 98.92,
+        "level": "Severe",
+        "explanation": "The system detected pustules with 98.92% confidence.",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ft",
+        "age": "14",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 88.94,
+        "level": "Severe",
+        "explanation": "The system detected pustules with 88.94% confidence.",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "hhv",
+        "age": "678",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "hhcvs",
+        "age": "43",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "hhcvs",
+        "age": "43",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 49.9,
+        "level": "High",
+        "explanation": "The system detected pustules with 49.9% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "n,",
+        "age": "80",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 38.9,
+        "level": "Medium",
+        "explanation": "The system detected papules with 38.9% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rakshitha",
+        "age": "34",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 37.98,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 37.98% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "divya",
+        "age": "78",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "divya",
+        "age": "78",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "divya",
+        "age": "78",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "divya",
+        "age": "78",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "divya",
+        "age": "78",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "divya",
+        "age": "78",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "vara",
+        "age": "19",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 57.79,
+        "level": "High",
+        "explanation": "The system detected pustules with 57.79% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "bnn",
+        "age": "1",
+        "gender": "Male",
+        "disease": "cysts",
+        "confidence": 100.0,
+        "level": "Severe",
+        "explanation": "The system detected cysts with 100.0% confidence.",
+        "reason": "Very deep and severe infection is causing painful cystic acne.",
+        "medicine": [
+            "Use isotretinoin (doctor prescribed)",
+            "Consult dermatologist immediately",
+            "Take steroid injections",
+            "Follow medical therapy",
+            "Use advanced treatment"
+        ],
+        "advice": "Immediate dermatologist consultation is necessary.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jgj",
+        "age": "98",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jgj",
+        "age": "98",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jgj",
+        "age": "98",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jgj",
+        "age": "98",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "adeh",
+        "age": "87",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ayee",
+        "age": "45",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "ayee",
+        "age": "45",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.7,
+        "level": "High",
+        "explanation": "The system detected papules with 44.7% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.7,
+        "level": "High",
+        "explanation": "The system detected papules with 44.7% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "date": "",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "date": "",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "date": "",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "",
+        "gender": "Male",
+        "date": "",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "undefined",
+        "age": "11",
+        "gender": "Female",
+        "date": "2026-04-10",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": null,
+        "age": "",
+        "gender": "Male",
+        "date": null,
+        "questions_count": 20,
+        "total_score": 0,
+        "score_percent": 0.0,
+        "disease": "blackheads",
+        "level": "Very Low",
+        "reason": "Mild oil clogging in pores",
+        "medicine": [
+            "Cleanser",
+            "Aloe vera",
+            "Moisturizer",
+            "Face wash"
+        ],
+        "advice": "Wash face twice daily"
+    },
+    {
+        "name": null,
+        "age": "",
+        "gender": "Male",
+        "date": null,
+        "questions_count": 20,
+        "total_score": 0,
+        "score_percent": 0.0,
+        "disease": "blackheads",
+        "level": "Very Low",
+        "reason": "Mild oil clogging in pores",
+        "medicine": [
+            "Cleanser",
+            "Aloe vera",
+            "Moisturizer",
+            "Face wash"
+        ],
+        "advice": "Wash face twice daily"
+    },
+    {
+        "name": null,
+        "age": "",
+        "gender": "Male",
+        "date": null,
+        "questions_count": 20,
+        "total_score": 0,
+        "score_percent": 0.0,
+        "disease": "blackheads",
+        "level": "Very Low",
+        "reason": "Mild oil clogging in pores",
+        "medicine": [
+            "Cleanser",
+            "Aloe vera",
+            "Moisturizer",
+            "Face wash"
+        ],
+        "advice": "Wash face twice daily"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 37.77,
+        "level": "Medium",
+        "explanation": "The system detected blackheads with 37.77% confidence.",
+        "reason": "Moderate accumulation of oil and dead skin is blocking pores, forming visible blackheads.",
+        "medicine": [
+            "Use salicylic acid cleanser daily",
+            "Apply charcoal mask twice weekly",
+            "Use adapalene gel at night",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Exfoliate regularly and maintain a strict skincare routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 37.77,
+        "level": "Medium",
+        "explanation": "The system detected blackheads with 37.77% confidence.",
+        "reason": "Moderate accumulation of oil and dead skin is blocking pores, forming visible blackheads.",
+        "medicine": [
+            "Use salicylic acid cleanser daily",
+            "Apply charcoal mask twice weekly",
+            "Use adapalene gel at night",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Exfoliate regularly and maintain a strict skincare routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 37.77,
+        "level": "Medium",
+        "explanation": "The system detected blackheads with 37.77% confidence.",
+        "reason": "Moderate accumulation of oil and dead skin is blocking pores, forming visible blackheads.",
+        "medicine": [
+            "Use salicylic acid cleanser daily",
+            "Apply charcoal mask twice weekly",
+            "Use adapalene gel at night",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Exfoliate regularly and maintain a strict skincare routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": null,
+        "age": null,
+        "gender": null,
+        "disease": "papules",
+        "confidence": 32.99,
+        "level": "Medium",
+        "explanation": "The system detected papules with 32.99% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "Unknown",
+        "age": "Unknown",
+        "gender": "Unknown",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "http://127.0.0.1:5000/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": null,
+        "age": null,
+        "gender": null,
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": null,
+        "age": null,
+        "gender": null,
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "chandu",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashu",
+        "age": "22",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jashu",
+        "age": "22",
+        "gender": "Female",
+        "disease": "pustules",
+        "confidence": 52.42,
+        "level": "High",
+        "explanation": "The system detected pustules with 52.42% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 29.23,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 29.23% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 29.23,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 29.23% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rishi",
+        "age": "22",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rishi",
+        "age": "22",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 34.4,
+        "level": "Medium",
+        "explanation": "The system detected whiteheads with 34.4% confidence.",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "jash",
+        "age": "22",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "dev",
+        "age": "20",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "kal",
+        "age": "22",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 59.28,
+        "level": "High",
+        "explanation": "The system detected blackheads with 59.28% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "revi",
+        "age": "3",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.7,
+        "level": "High",
+        "explanation": "The system detected papules with 44.7% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "revi",
+        "age": "3",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.7,
+        "level": "High",
+        "explanation": "The system detected papules with 44.7% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "revi",
+        "age": "3",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.7,
+        "level": "High",
+        "explanation": "The system detected papules with 44.7% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "revi",
+        "age": "3",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.7,
+        "level": "High",
+        "explanation": "The system detected papules with 44.7% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 75.63,
+        "level": "Severe",
+        "explanation": "The system detected papules with 75.63% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "cysts",
+        "confidence": 48.59,
+        "level": "High",
+        "explanation": "The system detected cysts with 48.59% confidence.",
+        "reason": "Severe cyst formation is occurring under deeper skin layers.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Take steroid injections",
+            "Use strong creams",
+            "Follow medical therapy",
+            "Consult doctor"
+        ],
+        "advice": "Seek medical help immediately.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 48.43,
+        "level": "High",
+        "explanation": "The system detected blackheads with 48.43% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 52.74,
+        "level": "High",
+        "explanation": "The system detected blackheads with 52.74% confidence.",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 37.59,
+        "level": "Medium",
+        "explanation": "The system detected papules with 37.59% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 73.97,
+        "level": "Severe",
+        "explanation": "The system detected papules with 73.97% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 73.97,
+        "level": "Severe",
+        "explanation": "The system detected papules with 73.97% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 73.97,
+        "level": "Severe",
+        "explanation": "The system detected papules with 73.97% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 90.35,
+        "level": "Severe",
+        "explanation": "The system detected papules with 90.35% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 30.74,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 30.74% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 30.74,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 30.74% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 30.74,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 30.74% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 62.44,
+        "level": "Severe",
+        "explanation": "The system detected papules with 62.44% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 41.45,
+        "level": "High",
+        "explanation": "The system detected papules with 41.45% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 45.64,
+        "level": "High",
+        "explanation": "The system detected papules with 45.64% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 42.12,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 42.12% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 39.16,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 39.16% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 28.63,
+        "level": "Medium",
+        "explanation": "The system detected blackheads with 28.63% confidence.",
+        "reason": "Moderate accumulation of oil and dead skin is blocking pores, forming visible blackheads.",
+        "medicine": [
+            "Use salicylic acid cleanser daily",
+            "Apply charcoal mask twice weekly",
+            "Use adapalene gel at night",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Exfoliate regularly and maintain a strict skincare routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 66.2,
+        "level": "Severe",
+        "explanation": "The system detected blackheads with 66.2% confidence.",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 34.13,
+        "level": "Medium",
+        "explanation": "The system detected blackheads with 34.13% confidence.",
+        "reason": "Moderate accumulation of oil and dead skin is blocking pores, forming visible blackheads.",
+        "medicine": [
+            "Use salicylic acid cleanser daily",
+            "Apply charcoal mask twice weekly",
+            "Use adapalene gel at night",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Exfoliate regularly and maintain a strict skincare routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 26.38,
+        "level": "Medium",
+        "explanation": "The system detected papules with 26.38% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 41.01,
+        "level": "High",
+        "explanation": "The system detected pustules with 41.01% confidence.",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 30.77,
+        "level": "Medium",
+        "explanation": "The system detected papules with 30.77% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 37.82,
+        "level": "Medium",
+        "explanation": "The system detected papules with 37.82% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 72.39,
+        "level": "Severe",
+        "explanation": "The system detected papules with 72.39% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 30.77,
+        "level": "Medium",
+        "explanation": "The system detected papules with 30.77% confidence.",
+        "reason": "Inflammation of clogged pores is forming noticeable red papules.",
+        "medicine": [
+            "Apply clindamycin gel",
+            "Use niacinamide serum",
+            "Apply azelaic acid",
+            "Use anti-inflammatory cream",
+            "Apply moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to prevent infection.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 29.51,
+        "level": "Medium",
+        "explanation": "The system detected pustules with 29.51% confidence.",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 75.63,
+        "level": "Severe",
+        "explanation": "The system detected papules with 75.63% confidence.",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 58.47,
+        "level": "High",
+        "explanation": "The system detected whiteheads with 58.47% confidence.",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 42.06,
+        "level": "High",
+        "explanation": "The system detected papules with 42.06% confidence.",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 58.47,
+        "level": "High",
+        "reason": "Significant pore blockage has resulted in multiple whiteheads across the skin.",
+        "medicine": [
+            "Apply retinoid cream regularly",
+            "Use benzoyl peroxide",
+            "Use salicylic acid cleanser",
+            "Apply niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Do not squeeze pimples to avoid worsening.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "df",
+        "age": "22",
+        "gender": "Female",
+        "disease": "whiteheads",
+        "confidence": 39.58,
+        "level": "Medium",
+        "reason": "Oil and bacteria buildup inside pores is causing visible whiteheads.",
+        "medicine": [
+            "Apply benzoyl peroxide cream",
+            "Use salicylic acid",
+            "Apply retinoid cream",
+            "Use niacinamide serum",
+            "Use oil-free moisturizer"
+        ],
+        "advice": "Use non-comedogenic skincare products only.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 83.94,
+        "level": "Severe",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rakshitha",
+        "age": "22",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 69.55,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "rakshitha",
+        "age": "22",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 69.55,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 83.94,
+        "level": "Severe",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 63.34,
+        "level": "Severe",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 69.55,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "Harini",
+        "age": "18",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 67.73,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "sahithi",
+        "age": "19",
+        "gender": "Female",
+        "disease": "papules",
+        "confidence": 69.42,
+        "level": "Severe",
+        "reason": "Severe inflammatory acne is affecting deeper layers of skin.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Apply strong creams",
+            "Consult dermatologist",
+            "Use medical therapy",
+            "Follow advanced treatment"
+        ],
+        "advice": "Seek immediate medical help.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 64.13,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 64.04,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 69.55,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "papules",
+        "confidence": 44.32,
+        "level": "High",
+        "reason": "Strong inflammation due to bacterial growth is causing painful papules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply anti-inflammatory creams",
+            "Use clindamycin",
+            "Apply niacinamide",
+            "Use moisturizer"
+        ],
+        "advice": "Follow proper medication and avoid touching skin.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 54.5,
+        "level": "High",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 97.19,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 97.19,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 97.19,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "navya",
+        "age": "18",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 98.94,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 95.27,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 83.94,
+        "level": "Severe",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 56.16,
+        "level": "High",
+        "reason": "Heavy oil buildup is causing deep pore blockage and prominent blackheads.",
+        "medicine": [
+            "Apply adapalene cream",
+            "Use salicylic acid gel",
+            "Apply charcoal face mask",
+            "Use retinoid cream",
+            "Apply oil control serum"
+        ],
+        "advice": "Avoid touching your face and follow a strict cleansing routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 98.47,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 64.04,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 98.37,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 35.27,
+        "level": "Medium",
+        "reason": "Bacterial infection is spreading in clogged pores causing pustules.",
+        "medicine": [
+            "Use topical antibiotics",
+            "Apply benzoyl peroxide",
+            "Use sulfur cream",
+            "Apply cleanser",
+            "Use moisturizer"
+        ],
+        "advice": "Do not pop pimples.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 96.06,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 96.06,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "whiteheads",
+        "confidence": 60.96,
+        "level": "Severe",
+        "reason": "Severe blockage and bacterial growth are causing persistent whiteheads.",
+        "medicine": [
+            "Consult dermatologist",
+            "Use oral medications",
+            "Apply strong retinoids",
+            "Use antibiotics",
+            "Follow medical therapy"
+        ],
+        "advice": "Immediate medical attention is recommended.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 97.19,
+        "level": "Severe",
+        "reason": "Deep infection is causing severe pus-filled acne.",
+        "medicine": [
+            "Use oral antibiotics",
+            "Consult doctor",
+            "Use strong medication",
+            "Follow medical therapy",
+            "Seek dermatologist care"
+        ],
+        "advice": "Immediate medical consultation is required.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "mithu",
+        "age": "19",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 98.94,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "mithu",
+        "age": "19",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 98.94,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "pustules",
+        "confidence": 41.3,
+        "level": "High",
+        "reason": "Severe infection is causing multiple pustules on the skin.",
+        "medicine": [
+            "Use antibiotic cream",
+            "Apply benzoyl peroxide",
+            "Use sulfur ointment",
+            "Use cleanser",
+            "Apply moisturizer"
+        ],
+        "advice": "Maintain strict hygiene routine.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "zxkcnds",
+        "age": "3433",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 99.59,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "zxkcnds",
+        "age": "3433",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 99.59,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "zxkcnds",
+        "age": "3433",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 99.59,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 99.59,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "pallavi",
+        "age": "25",
+        "gender": "Female",
+        "disease": "blackheads",
+        "confidence": 99.59,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 89.58,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    },
+    {
+        "name": "",
+        "age": "",
+        "gender": "Male",
+        "disease": "blackheads",
+        "confidence": 99.59,
+        "level": "Severe",
+        "reason": "Severe and long-term blockage of pores has resulted in persistent blackheads.",
+        "medicine": [
+            "Use strong retinoid creams",
+            "Go for chemical peel treatment",
+            "Use dermatologist-grade salicylic therapy",
+            "Apply deep cleansing masks",
+            "Consult a dermatologist"
+        ],
+        "advice": "Seek professional treatment for effective removal.",
+        "image": "/static/upload.jpg"
+    }
+]

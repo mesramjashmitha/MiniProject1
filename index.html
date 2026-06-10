@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DERMA SCOPE</title>
+<body>
+<div class="bubbles">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+</div>    
+</body>
+<style>
+body{
+    margin:0;
+    font-family: Arial;
+     overflow-x:hidden;
+    background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+    animation: bgzoom 10s infinite alternate;
+    color:white;
+    
+}
+@keyframes bgzoom{
+    0%{transform: scale(1);}
+    100%{transform: scale(1.05);}
+}
+/* NAVBAR */
+.navbar{
+    text-align:center;
+    padding:15px;
+    background:#111;
+    color:#00e6e6;
+}
+
+/* CARD */
+.card{
+    background:rgba(0,0,0,0.6);
+    padding:20px;
+    border-radius:15px;
+    width:360px;
+    margin:20px auto;
+    box-shadow:0 0 15px cyan;
+    backdrop-filter: blur(6px);
+}
+
+/* INPUT */
+input, select{
+    width:90%;
+    padding:10px;
+    margin:10px;
+    border-radius:8px;
+     border:none;
+    outline:none;
+    background:#111;
+    color:#00e6e6;
+    box-shadow:0 0 8px #00e6e6;
+}
+
+/* BUTTON */
+button{
+    background:linear-gradient(45deg,#00e6e6,#0077ff);
+    padding:10px 20px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+    color:white;
+    transition:0.3s;
+}
+
+button:hover{
+    transform:scale(1.05);
+    box-shadow:0 0 15px cyan;
+}
+
+/* 📌 TEXT BOX */
+.feature p{
+    background:#111;
+    padding:10px;
+    margin:8px 0;
+    border-radius:10px;
+    box-shadow:0 0 8px cyan;
+    animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn{
+    from{opacity:0; transform:translateY(10px);}
+    to{opacity:1; transform:translateY(0);}
+}
+
+/* 👩‍💻 CREDIT SECTION */
+.credit{
+    text-align:center;
+    margin-top:20px;
+    font-weight:bold;
+    color:#00e6e6;
+}
+
+.credit span{
+    display:block;
+    margin:5px;
+    color:white;
+}
+/* RESULT */
+.result{
+    width:350px;
+    margin:auto;
+    background:#111;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 0 20px cyan;
+    display:none;
+}
+
+.history{
+    width:350px;
+    margin:auto;
+    background:#111;
+    padding:20px;
+    border-radius:15px;
+    margin-top:20px;
+}
+.bubbles{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    z-index:-1;
+    overflow:hidden;
+}
+
+.bubbles span{
+    position:absolute;
+    bottom:-150px;
+    background:rgba(0, 230, 230, 0.25);
+    border-radius:50%;
+    animation: rise 12s linear infinite;
+}
+
+/* stronger visibility + different sizes */
+.bubbles span:nth-child(1){left:10%;width:50px;height:50px;animation-duration:8s;}
+.bubbles span:nth-child(2){left:20%;width:25px;height:25px;animation-duration:10s;}
+.bubbles span:nth-child(3){left:30%;width:60px;height:60px;animation-duration:12s;}
+.bubbles span:nth-child(4){left:50%;width:30px;height:30px;animation-duration:9s;}
+.bubbles span:nth-child(5){left:65%;width:45px;height:45px;animation-duration:11s;}
+.bubbles span:nth-child(6){left:80%;width:20px;height:20px;animation-duration:7s;}
+.bubbles span:nth-child(7){left:90%;width:40px;height:40px;animation-duration:13s;}
+.bubbles span:nth-child(8){left:40%;width:35px;height:35px;animation-duration:10s;}
+
+@keyframes rise{
+    0%{
+        transform:translateY(0) scale(1);
+        opacity:0.5;
+    }
+    100%{
+        transform:translateY(-1000px) scale(1.6);
+        opacity:0;
+    }
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="bubbles">
+    <span></span><span></span><span></span>
+    <span></span><span></span><span></span>
+</div>
+
+<!-- 📌 FEATURES -->
+<div class="card feature">
+
+<h3 style="text-align:center;color:#00e6e6;">📌 PROJECT FEATURES</h3>
+
+<p>1. Detects acne using images</p>
+<p>2. Uses ML model for prediction</p>
+<p>3. Shows confidence & severity</p>
+<p>4. Suggests medicines</p>
+<p>5. Stores history</p>
+
+</div>
+<div class="card credit">
+
+<h3>👩‍💻 Built By</h3>
+<span>M. Jashmitha</span>
+<span>D. Sravanthi</span>
+<span>D. Rakshitha</span>
+
+<h3>🎓 Guided By</h3>
+<span>Mrs. Dr. Nanda Devi</span>
+<!-- FORM -->
+<div class="card">
+    <h3>Enter Details</h3>
+
+    <input id="name" placeholder="Name">
+    <input id="age" placeholder="Age">
+
+    <select id="gender">
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+        
+    </select>
+
+    <input type="file" id="img">
+
+    <br><br>
+    <button onclick="send()">Analyze</button>
+</div>
+
+<!-- RESULT -->
+<div class="result" id="resultBox"></div>
+
+<!-- HISTORY -->
+<div class="card">
+    <h3>Search History</h3>
+    <input id="searchName" placeholder="Enter Name">
+    <button onclick="getHistory()">Search</button>
+</div>
+
+<div class="history" id="historyBox"></div>
+
+<script>
+
+// ================= SEND =================
+function send(){
+
+    let formData = new FormData();
+
+    formData.append("name", document.getElementById("name").value);
+    formData.append("age", document.getElementById("age").value);
+    formData.append("gender", document.getElementById("gender").value);
+    formData.append("image", document.getElementById("img").files[0]);
+
+    fetch("http://127.0.0.1:5000/predict", {
+        method: "POST",
+        body: formData
+    })
+    .then(res => res.json())
+    .then(data => {
+
+        if(data.error){
+            alert(data.error);
+            return;
+        }
+
+        let html = `
+       
+        <h2 style="color:#00e6e6">${data.disease.toUpperCase()}</h2>
+
+        <img src="http://127.0.0.1:5000${data.image}" width="150"><br><br>
+
+        👤 Name: ${data.name}<br>
+        🎂 Age: ${data.age}<br>
+       
+        🚻 Gender: ${data.gender}<br>
+     
+
+        📊 Confidence: ${data.confidence}%<br>
+        🔥 Level: ${data.level}<br><br>
+
+        🧠 Reason:<br>${data.reason}<br><br>
+
+        💊 Medicines:<br>
+        ${data.medicine.map(m => "• " + m).join("<br>")}<br><br>
+
+        📌 Advice:<br>${data.advice}
+        `;
+
+        let box = document.getElementById("resultBox");
+        box.innerHTML = html;
+        box.style.display = "block";
+
+    })
+    .catch(err => alert("❌ Server not running"));
+}
+
+
+// ================= HISTORY =================
+function getHistory(){
+   
+            let name = document.getElementById("searchName").value.trim();
+
+        if(name === ""){
+            alert("Enter name");
+            return;
+        }
+
+    fetch(`http://127.0.0.1:5000/history/${name}`)
+    .then(res => res.json())
+    .then(data => {
+
+        let out = "";
+
+        if(data.length === 0){
+            out = "❌ No records found";
+        }
+
+        data.forEach(d => {
+            out += `
+            <hr>
+            👤 ${d.name}<br>
+          
+            🧬 ${d.disease}<br>
+            📊 ${d.confidence}% (${d.level})<br>
+            💊 ${d.medicine.join(", ")}
+            `;
+        });
+        
+        document.getElementById("historyBox").innerHTML = out;
+        document.getElementById("date").value = new Date().toISOString().split("T")[0];
+    });
+}
+
+
+</script>
+
+</body>
+</html>
